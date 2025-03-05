@@ -1,6 +1,6 @@
 # 🌤️ Weather Journal Website  
 
-A simple weather app that retrieves and displays weather data based on a ZIP code, including temperature, date, and user feelings.  
+A simple weather website that retrieves and displays weather data based on a ZIP code, including temperature, date, and user feelings.  
 
 ---
 
